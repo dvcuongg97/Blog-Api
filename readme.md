@@ -1,4 +1,4 @@
-# A Simple Rest API for Blog Website
+# A Simple RESTful API for Blog Website
 
 
 **Description**
